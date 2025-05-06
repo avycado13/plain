@@ -69,4 +69,4 @@ Then in your template, you can render the form fields.
 {% endblock %}
 ```
 
-With manual form rendering, you have full control over the HTML classes, attributes, and JS behavior. But in large applications the form rendering can become repetitive. You will often end up re-using certain patterns in your HTML which can be abstracted away using Jinja [includes](https://jinja.palletsprojects.com/en/stable/templates/#include), [macros](https://jinja.palletsprojects.com/en/stable/templates/#macros), or [plain.elements](/plain-elements/README.md).
+With manual form rendering, you have full control over the HTML classes, attributes, and JS behavior. But in large applications the form rendering can become repetitive. You will often end up re-using certain patterns in your HTML which can be abstracted away using Jinja [includes](https://jinja.palletsprojects.com/en/stable/templates/#include), [macros](https://jinja.palletsprojects.com/en/stable/templates/#macros), or [plain.elements](/plain-elements/plain/elements/README.md).
